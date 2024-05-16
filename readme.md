@@ -1,4 +1,4 @@
-# Product Analytics Report: Chatify Social Media App Launch
+# Product Analytics Report: Chatify Social Media App
 
 ---
 
