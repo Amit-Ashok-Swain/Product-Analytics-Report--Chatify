@@ -109,7 +109,7 @@ Chatify's marketing efforts include:
 | Virality Coefficient | (Number of Referrals * Conversion Rate) / Total Users | 4.76% |
 
 
-![Wireframe Dashboard](wireframe_dashboard.png)
+![Wireframe Dashboard](https://github.com/Amit-Ashok-Swain/Product-Analytics-Report--Chatify/blob/main/wireframe_dashboard.png)
 
 
 ---
