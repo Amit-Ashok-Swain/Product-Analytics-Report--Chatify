@@ -111,6 +111,8 @@ Chatify's marketing efforts include:
 
 ![Wireframe Dashboard](https://github.com/Amit-Ashok-Swain/Product-Analytics-Report--Chatify/blob/main/wireframe_dashboard.png)
 
+[**Link to Figma Dashboard**](https://www.figma.com/design/o3dl9ExqwfCj81kiIjhwiK/Chatify---Product-Analytics-Dashboard-Wireframe?node-id=0%3A1&t=l6Z23oXEAEzL5Vc0-1)
+
 
 ---
 
